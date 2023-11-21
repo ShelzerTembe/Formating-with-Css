@@ -1,16 +1,26 @@
 @charset "utf-8";
-
+/*
 div.quadrado{
     border: 1px solid #000000;
-    width: 300px;
-    height: 300px;
-    display:inline-block;
+    height: 150px;
     border-radius: 10px;
-    background-color: lightgrey;
+    margin: 10px;
+    background-image: url("imagens/wallpaper004.jpg");
 }
 
+div#q1{
+    background-position: left top ;
+}
 
+div#q2{
+    background-position: left center ;
+}
 
 div#q3{
-   background-image: url(imagens/pattern001.png); 
+    background-position: right bottom ;
 }
+
+div#q4{
+    background-position: center center ;
+}*/
+

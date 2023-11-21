@@ -1,22 +1,16 @@
 @charset "utf-8";
 
-.quadrado{
+div.quadrado{
     border: 1px solid #000000;
     width: 300px;
     height: 300px;
-    display: inline;
+    display:inline-block;
     border-radius: 10px;
     background-color: lightgrey;
 }
 
-#q1{
 
-}
 
-#q2{
-    
-}
-
-#q3{
-    
+div#q3{
+   background-image: url(imagens/pattern001.png); 
 }
